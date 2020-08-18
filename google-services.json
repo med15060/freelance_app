@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "520398465605",
+    "firebase_url": "https://glitchtec-ef6e9.firebaseio.com",
+    "project_id": "glitchtec-ef6e9",
+    "storage_bucket": "glitchtec-ef6e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520398465605:android:dd4156fc13135bc23b912c",
+        "android_client_info": {
+          "package_name": "com.glitchtec.glitchtecapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520398465605-v5tg4339qvc5skb93emig1n1ubn9krvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2ZwcZdPZwQYFt34BEJ5x4Gi_pk-t2uc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520398465605-v5tg4339qvc5skb93emig1n1ubn9krvo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
